@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1558547697 source:d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\game_board.c
+	<stdio.h>
+	"run_game.h"
+
+1558547365 d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\run_game.h
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1558550418 source:d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\game_moves.c
+	<stdio.h>
+	"run_game.h"
+
+1558550801 source:d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\game_table.c
+	<stdio.h>
+	<string.h>
+	"run_game.h"
+
+1558547443 source:d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"run_game.h"
+
+1558546999 source:d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\run_game.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"run_game.h"
+
+1558547078 source:d:\saina files\c\ta_project_9632644_9732483\ta_project_9632644_9732483\ta_project_9632644_9732483\work_with_file.c
+	<stdio.h>
+	"run_game.h"
+
